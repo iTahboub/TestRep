@@ -1,4 +1,4 @@
-This program is build on external python libraries, so make sure that you install primarily Python 3.10 and any compatible IDE, and install the following external libraries, either from your terminal or, if you use PyCharm download them from
+This program is built on external python libraries, so make sure that you install primarily Python 3.10 and any compatible IDE, and install the following external libraries, either from your terminal or, if you use PyCharm download them from
 
 Settings > Project > Python interpreter > +, the libraries you will need:
 
